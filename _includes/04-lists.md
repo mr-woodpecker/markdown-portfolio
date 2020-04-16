@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Pizza
+2. German
+   1. Silly sounds
+   2. Silly phrases
+3. Meredith
+   
